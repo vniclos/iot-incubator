@@ -82,7 +82,8 @@ const unsigned int RELAY_OFF= LOW;
 #endif
 ```
 
-
+## Schematic
+![alt text](https://github.com/vniclos/iot-incubator/blob/master/img/smartphone.jpg "Incubator IOT" )
 
 Contac with me on facebook 
 https://www.facebook.com/vicente.niclos
