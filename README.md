@@ -41,7 +41,7 @@ IPAddress g_NetIp(192, 168, 1, 100);
 IPAddress g_NetGateway(192, 168, 1, 1);
 IPAddress g_NetSubnet(255, 255, 255, 0);
 //================================================================
-``'
+```
 
 ## Hardware 
 
@@ -80,9 +80,8 @@ const unsigned int RELAY_OFF= LOW;
 
 #define INTERVAL_RELAY 5000
 #endif
-  '''
-  
-![alt text](https://github.com/vniclos/iot-incubator/blob/master/img/smartphone.jpg "Incubator IOT" )
+```
+
 
 
 Contac with me on facebook 
