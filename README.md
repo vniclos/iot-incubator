@@ -41,12 +41,11 @@ IPAddress g_NetIp(192, 168, 1, 100);
 IPAddress g_NetGateway(192, 168, 1, 1);
 IPAddress g_NetSubnet(255, 255, 255, 0);
 //================================================================
-```cpp
+``'
 
 ## Hardware 
 
---Dht22
-  conect 10k resistence betwen data and +3.3v
+Dht22 need   conect 10k resistence betwen data and +3.3v
   
   The pines are definied on _defines.h, show below
   
