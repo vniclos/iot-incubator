@@ -1,6 +1,7 @@
 # IOT Incubator
 
-![alt text](https://github.com/vniclos/iot-incubator/blob/master/img/smartphone.jpg?raw=true "Incubator iot )
+
+![alt text](https://github.com/vniclos/iot-incubator/blob/master/img/smartphone.jpg "Incubator IOT" )
 
 ## Hardware
 
