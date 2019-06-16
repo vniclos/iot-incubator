@@ -85,5 +85,7 @@ const unsigned int RELAY_OFF= LOW;
 ## Schematic
 ![alt text](https://github.com/vniclos/iot-incubator/blob/master/img/incubator-schema.png "Incubator IOT" )
 
+You can use a beach fridge, or an old refrigerator, you must adjust the power of the thermoresistance to the size of the refrigerator, and you should not put the resistance directly on plastic, you can melt it. I use a layer of half an inch under and above the resistance, and the resistance is placed between two thin clay bricks, this gives a lot of thermal stability, and after the opening of the incubator-fridge the temperature is quickly recovered
+
 Contac with me on facebook 
 https://www.facebook.com/vicente.niclos
